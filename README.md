@@ -18,6 +18,10 @@
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=white)
 
+#### Framework
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
 #### Library
 
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)
