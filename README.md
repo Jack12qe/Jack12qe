@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jack12qe</h1>
 <h3 align="center">A passionate backend engineer</h3>
 
--   🌱 I’m currently learning **PHP, Mysql, JS, etc**
+-   🌱 I’m currently learning **Laravel, Svelte, Mysql, etc**
 
--   ⚡ Fun fact: I love solving problems and exploring new tech stacks!
+-   ⚡ Fun fact: I'm passionate about leveraging tech skills and service creation to build solutions that help people!
 
--   🚀 <strong>My goal: Becoming a confident full-stack developer</strong> 🌐
+-   🚀 <strong>My Goals:</strong>
+    -   Become a confident <strong>full-stack developer</strong> 🌐
+    -   Contribute to <strong>open-source projects</strong> 🤝
+    -   Improve my problem-solving and <strong>algorithm skills</strong> 🧠
+    -   Launch and maintain my own applications 🐾
 
 ---
 
