@@ -9,7 +9,7 @@
     -   Become a confident <strong>full-stack developer</strong> 🌐
     -   Contribute to <strong>open-source projects</strong> 🤝
     -   Improve my problem-solving and <strong>algorithm skills</strong> 🧠
-    -   Launch and maintain my own applications 🐾
+    -   Launch and maintain <strong>my own applications</strong> 🐾
 
 ---
 
